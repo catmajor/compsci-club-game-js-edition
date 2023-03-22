@@ -1,0 +1,7 @@
+body {padding: 0; margin: 0}
+
+#playarea {background-color: #88ff6f; width: 100vw; height: 100vh}
+
+
+.body {border-radius: 50%; border: black solid 4px; background-color: white; position: fixed; box-sizing: border-box}
+.hand {border-radius: 50%; border: black solid 4px; background-color: white; position: fixed; box-sizing: border-box}
